@@ -173,3 +173,39 @@ a
     font-weight: 900;
     font-size: 18px;
 }
+
+.signup-content
+{
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.signup-form
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.signup-form
+{
+    border: 3px solid #3882f6;
+    border-radius: 6px;
+    background-color: #3882f6;
+    width: 800px;
+    padding: 2rem;
+}
+
+.bottom-button
+{
+    width: 130px;
+    border: 2px solid white;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 7px;
+}
+
+.signup-form 
+{
+    color: white;
+}
